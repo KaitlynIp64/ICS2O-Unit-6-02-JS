@@ -34,22 +34,21 @@
         </div>
       </header>
       <main class="mdl-layout__content">
-        <h6>Enter 2 numbers you would like to divide</h6>
-        Enter first number
-        <input type="number" id="counter1" name="counter1" value="0" oninput="validity.valid||(value='');">
-        <br><br>
-        Enter second number
-        <input type="number" id="counter2" name="counter2" value="0" oninput="validity.valid||(value='');">
-        <br><br>
-        <!-- Raised button with ripple -->
-            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" onclick= "myButtonClicked()">
-              Calculate
-            </button>
+        <br>
+        <table>
+          <tr>
+            <th>
+              <img src="./img/unnamed.png" alt="Cookie" onclick= "myButtonClicked()" />
+            </th>
+          </tr>
+        </table>
         <!-- basic text -->
         <p></p>
             <br>
         <div id="answer"></div>
       </main>
     </div>
+  </body>
+  <body onload="updateCookieCount()">
   </body>
 </html>
