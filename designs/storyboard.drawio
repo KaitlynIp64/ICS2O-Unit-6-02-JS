@@ -1,0 +1,24 @@
+<mxfile host="65bd71144e">
+    <diagram id="NeRCM4CPfZ6G__B5VWJG" name="Page-1">
+        <mxGraphModel dx="674" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <UserObject label="" link="https://f76986e3-1aec-4ad2-8a57-4362dfdcdfbe.id.repl.co/img/unnamed.png" id="2">
+                    <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                        <mxGeometry x="30" y="30" width="390" height="390" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Cookie Clicker, With JS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="370" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://f76986e3-1aec-4ad2-8a57-4362dfdcdfbe.id.repl.co/img/unnamed.png;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="90" width="170" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Total hits: 5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry y="260" width="170" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
